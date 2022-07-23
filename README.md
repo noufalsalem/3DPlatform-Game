@@ -13,7 +13,7 @@ Main scripts found in Assets/Scripts
 
 ### Dependencies
 - TextMeshPro for fonts and UI
-- Jasper (3D Character) from Adobe. Meta files located in .../Character1/
+- Jasper (3D Character) from Mixamo. Meta files located in .../Character1/
 
 ## Author
 Nouf AlSalem 
