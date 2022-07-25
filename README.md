@@ -1,4 +1,4 @@
-# 3DPlatform-Game
+# 3D Platform Game
 Third person platform game with 3D environment created with Unity & Blender. 2 Levels.
 
 ## Description
